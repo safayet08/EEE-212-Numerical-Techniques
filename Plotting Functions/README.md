@@ -1,4 +1,4 @@
-#1.	ln  (1+x) function can be expanded  using Taylor series and the expanded series is given below.
+##1.	ln  (1+x) function can be expanded  using Taylor series and the expanded series is given below.
  
 Now write a single program to perform the following tasks:
   a.	Take the value of x and iteration (number of terms) number n and return the approximated value of  ln(1+x).							
@@ -6,7 +6,7 @@ Now write a single program to perform the following tasks:
   c.	In the same plot (one plot for 1(a) and 1(b)) show five approximated functions for the same interval using different number of terms (1, 3, 5, 20, 50).			
   d.	Draw another plot showing the relative approx. error for each iteration while determining the value of  ln(1.5) upto 50 terms.			
 
-#2.	In a chemical engineering process, water vapor (H2O) is heated to sufficiently high temperatures that a significant portion of the water dissociates, or splits apart, to form oxygen (O2) and hydrogen (H2):
+##2.	In a chemical engineering process, water vapor (H2O) is heated to sufficiently high temperatures that a significant portion of the water dissociates, or splits apart, to form oxygen (O2) and hydrogen (H2):
 
       H2O←→ H2 + 1/2 O2
 
