@@ -14,7 +14,7 @@ Now write a single program to perform the following tasks:
 
   K = x/(1-x) *√(2pt/(2+x))
 
-  where K is the reaction’s equilibrium constant and pt is the total pressure of the mixture. If pt= 3 atm and K = 0.05, determine the value of x that satisfies given equation.
+  Where K is the reaction’s equilibrium constant and p_t is the total pressure of the mixture. If p_t = 3 atm and K = 0.05, determine the value of x that satisfies given equation.
   Write a single program which does the following:
     •	Uses graphical model to estimate the value.			
     •	Uses Secant method and False Position method to estimate the value for εs=0.5%. Report the number of iterations for each  method  while achieving the expected result.
